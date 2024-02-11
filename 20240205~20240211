@@ -1,0 +1,58 @@
+# 週報　2024/02/05 ~ 2024/02/11
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1
+・Frontend Team Dev<
+・Backend Project 2
+・Backend Project 2 Team Dev
+・Frontend project 4
+-2024/3/29~2024/5/14
+
+・Advanced CS
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Backend Project1(10h)
+    - Guess the number game、File Manipulator Program、Markdown to HTML Converterの作成完了
+
+- Task2
+    - Git(10h)
+
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - Backend Project1(12h)
+    ~ Guess the number gameまで完了
+
+- Task2
+    - Git(8h)(進行中_70%)
+    
+## タスクの進捗について
+
+- Task1
+    - 遅延。データストレージやGuess the number gameの箇所で時間を要してしまった。来週に残りのFile Manipulator Program、Markdown to HTML Converterの作成完了をマストで行っていく。
+
+- Task2
+    - オンスケ。予定よりも進みがよい。
+
+## 所感・学び
+Guess the number gameの作成が完了した。【URL:https://github.com/gaogao0901/Guess-the-number-game.git】
+型変換の箇所でエラーが発生した。
+データストリームの単元ではstdin、stdoutの箇所やsysライブラリの箇所で多くの学びがあった。
+<Linux/Unix のパイプ演算子 '|' を使って標準出力データを、次のプログラムの標準入力データとして直接渡す>箇所で理解を深めるために実際に自身でfood.py と answer.py という 2 つの Python プログラムを実際に作成した。
+Gitは予定よりも進みがよかった。
+また4月から今よりもコーディングがより必要になるJava開発案件にアサインしていただけることが決まったのでそちらも頑張っていきたい。
