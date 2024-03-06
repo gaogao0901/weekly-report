@@ -1,0 +1,57 @@
+# 週報　2024/02/26 ~ 2024/02/31
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1
+・Frontend Team Dev<
+・Backend Project 2
+・Backend Project 2 Team Dev
+・Frontend project 4
+-2024/3/29~2024/5/14
+
+・Advanced CS
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Backend Project1(7h)
+    - Markdown to HTML Converterの作成完了
+
+- Task2
+    - Intermediate(12h)
+
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - Backend Project1(9h)
+    ~ Markdown to HTML Converterは作成完了
+
+- Task2
+    - Intermediate(9h)(進行中_70%)
+    
+## タスクの進捗について
+
+- Task1
+    - 遅延。Markdown to HTML Converterが作成完了してBackend Project1は修了
+
+- Task2
+    - オンスケ。
+
+## 所感・学び
+Markdown to HTML Converterの作成が完了した。【URL:https://github.com/gaogao0901/MarkdowntoHTMLConverter.git】
+コマンドライン引数で初めて sys.argv を使用したため、その使い方に慣れるまでに時間がかかりました。
+またファイルパスを取得する際にエラー処理を行う部分でファイルパスが正しく指定されていない場合や存在しないファイルを指定された場合のエラー処理の実装で予定より時間がかかりました。
+ただ学習していてとても楽しいです。
+Intermediateの進捗は悪くないのでこのペースで進めてまいります。
