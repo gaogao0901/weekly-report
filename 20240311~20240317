@@ -1,0 +1,55 @@
+# 週報　2024/03/11 ~ 2024/03/17
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1
+・Frontend Team Dev<
+・Backend Project 2
+・Backend Project 2 Team Dev
+・Frontend project 4
+-2024/3/29~2024/5/14
+
+・Advanced CS
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Frontend Project 1(10h)
+    
+- Task2
+    - Intermediate(10h)
+    
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - Frontend Project 1(11.5h)(進行中_28%)
+    
+- Task2
+    - Intermediate(0.5h)(進行中_88%)
+    
+## タスクの進捗について
+
+- Task1
+    - オンスケ。
+    
+- Task2
+    - 遅延。今週中に着手完了の手筈で進めてまいります。
+
+## 所感・学び
+今週はFrontend Project1をメインに進めていきました。
+GUIの概念と目的、DOMの役割と操作方法、APIの利用方法などについて学習しました。
+DOMはWebページ上のHTMLやXML文書を表現するデータ構造で、JavaScriptを使ってこれらの要素を操作ができdocumentオブジェクトを使って要素を取得し、その属性や内容を変更することができることや
+DOMの操作にはブラウザから提供されるAPIを活用して、document.getElementById()関数を使って特定のIDを持つ要素を取得したり、その属性を変更したりすることについて理解しました。
+来週はIntermediateの着手完了とFrontend Project1の続きを進めてまいります。
