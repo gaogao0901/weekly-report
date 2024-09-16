@@ -1,0 +1,61 @@
+# 週報　2024/09/09 ~ 2024/09/15
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1 
+・Frontend Team Dev >準備待ち(0%)
+・Backend Project 2 >着手開始(0%)
+・Backend Project 2 Team Dev
+・Frontend project 4
+-2024/3/29~2024/5/14
+
+・Advanced CS
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Frontend Project 1(10h)
+    
+- Task2
+    - HTMLとCSS(15h)
+    
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - Frontend Project 1(15h)(着手完了_100%)
+    
+- Task2
+    - HTMLとCSS(30h)(着手完了_100%)
+    
+## タスクの進捗について
+
+- Task1
+    - 着手完了。
+    
+- Task2
+    - 着手完了。Frontend Project 1に取り組む際に必要なHTMLとCSS、Bootstrapの学習を行い、基礎的なスキルを習得しました。
+
+## 所感・学び
+Frontend Project 1が完了しました。
+
+フロントへの興味があったことや、プロジェクト内でBootstrapを利用してプロフィールカードを作成する単元があったため、これを機にフロントを復習しておきたいと思い、HTMLとCSSの単元も合わせて着手いたしました。
+HTMLとCSSの学習を進める中で、Bootstrapを用いることで少ないコードで効率的にスタイリングできることが分かり、非常に便利だと感じました。
+特に、ボックスモデルやメディアクエリといったCSSの重要な概念を復習し、練習問題を通じて理解が深まりました。フロントエンド開発においては、アウトプットが理解を深めるために重要であると実感しました。
+
+rontend Project 1では、JavaScriptを使用してオブジェクトや関数を活用し、HTMLを動的に構築する方法について深く学ぶことができました。
+JavaScriptの文法はJavaと似ており、理解しやすかったです。
+
+今週はこれらの学習に多くの時間を投資し、大幅に進捗を達成することができました。
+Frontend Team Devの開始までの間、Backend Project 2に取り組む予定です。
