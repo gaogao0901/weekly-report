@@ -1,0 +1,60 @@
+# 週報　2024/09/23 ~ 2024/09/29
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1 
+・Frontend Team Dev >準備待ち(0%)
+・Backend Project 2 >着手中(95%)
+・Backend Project 2 Team Dev
+・Frontend project 4
+-2024/3/29~2024/5/14
+
+・Advanced CS
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Backend Project 2(10h)
+    
+- Task2
+    - Backend Project 1の復習(1h)
+    
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - Backend Project 2(10h)(着手中_95%)
+    
+- Task2
+    - Backend Project 1の復習(2h)
+    
+## タスクの進捗について
+
+- Task1
+    - オンスケ。残り5%のため今週中に完了させて、FrontendProject4を着手する手筈となります。
+    
+- Task2
+    - 完了。
+
+## 所感・学び
+Backend Project 2の続きを着手しました。
+プロセスのソケットドメイン(AF_UNIX、AF_INIT、AF_INIT6)やトランスポート層プロコトル、ソケットタイプ(SOCK_STREAM、SOCK_DGRAW、SOCK_RAW)などを意識しながら
+ps -aやcat /proc/[]/statusコマンドを使用してプロセスを確認しながらVideoCompressorを作成しております。
+
+パイプは一方向でしか利用できないことやパイプと比較したソケットの利点についてもBackendProject1の内容を復習しながら改めて理解できました。
+
+クライアントサーバーモデルにおける、クライアント側とサーバー側のデータの受け渡しの中身やOSライブラリなど今まで知らなかった知識を学ぶことができ、とても勉強になりました。
+
+BackendProject2が完了次第、FrontendProject4を着手する予定となります。またご教授いただきました内容に従って初心用のチーム開発に応募させていただきました。
+よろしくお願いいたします。
