@@ -48,7 +48,7 @@
     - オンスケ。
 
 ## 所感・学び
-Online-Chat-Messanger(https://github.com/gaogao0901/Online-ChatMessanger)とVideo-Compressor-Service(https://github.com/gaogao0901/VideoCompressorService)の作成が完了しました。
+Online-Chat-Messanger[GitHubリポジトリ](https://github.com/gaogao0901/Online-ChatMessanger) とVideo-Compressor-Service[GitHubリポジトリ](https://github.com/gaogao0901/VideoCompressorService) の作成が完了しました。
 OSI参照モデルの7層やTCP/UDPの仕組み、プロトコルについての理解を深めることができました。この学びを通じて、ネットワーク通信の基本的な概念とその機能を体系的に把握することができました。
 
 また、Pythonには動画データを編集するための便利なライブラリが存在することを知り、実際に活用することで多くの知見を得ることができました。
