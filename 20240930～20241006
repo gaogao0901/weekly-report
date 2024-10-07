@@ -1,0 +1,57 @@
+# 週報　2024/09/30 ~ 2024/10/06
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1 
+・Frontend Team Dev >準備待ち(0%)
+・Backend Project 2 
+・Backend Project 2 Team Dev >準備待ち(0%)
+・Frontend project 4 >着手中(36%)
+-2024/3/29~2024/5/14
+
+・Advanced CS
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Backend Project 2(10h)
+    
+- Task2
+    - Frontend project 4(10h)
+    
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    - Backend Project 2(12h)
+    
+- Task2
+    - Frontend project 4(9h)
+    
+## タスクの進捗について
+
+- Task1
+    - 着手完了。
+    
+- Task2
+    - オンスケ。
+
+## 所感・学び
+Online-Chat-Messanger(https://github.com/gaogao0901/Online-ChatMessanger)とVideo-Compressor-Service(https://github.com/gaogao0901/VideoCompressorService)の作成が完了しました。
+OSI参照モデルの7層やTCP/UDPの仕組み、プロトコルについての理解を深めることができました。この学びを通じて、ネットワーク通信の基本的な概念とその機能を体系的に把握することができました。
+
+また、Pythonには動画データを編集するための便利なライブラリが存在することを知り、実際に活用することで多くの知見を得ることができました。
+特に、ソケットを使用したクライアントとサーバー間でデータを渡すプログラムの実装においては、さまざまな学びがありました。JSON形式やデータ転送時のプロトコルについても深く学び、その知識を今後のプロジェクトに活かしていきたいと考えています。
+
+次のステップとして、現在はFrontend Project 4に取り組んでいます。このプロジェクトでは、APIやJSONファイルを扱う分野に注力し、HTML形式でデータを表示するための知識をさらに深めていきたいと考えています。
