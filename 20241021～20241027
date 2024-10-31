@@ -1,0 +1,57 @@
+# 週報　2024/10/21 ~ 2024/10/27
+
+## 目標
+バックエンドエンジニアとして自社開発企業に内定をもらう
+
+# マイルストーン
+-2024/1/26
+
+1on1ミーティング(１回目)</br></br>
+-2024/1/29~2024/3/29
+
+・Intermediate
+・Backend Project 1
+・Git
+・Frontend 1 
+・Frontend Team Dev >着手完了(10月12日(土) - 10月27日(日))
+・Backend Project 2 
+・Backend Project 2 Team Dev >準備待ち(0%)
+・Frontend project 4 
+-2024/3/29~2024/5/14
+
+・Advanced CS >着手中(15%)
+・OOP
+・Database
+・Backend Project 3
+
+   
+## 今週の予定：やる予定だったこと・目標
+- Task1
+    - Advanced CS(5h)
+    
+- Task2
+    - Frontend Team Dev(20h)
+    
+## 今週やったこと：実際にやったこと・実稼働
+- Task1
+    -  Advanced CS(3h)
+    
+- Task2
+    - Frontend Team Dev(25h)
+    
+## タスクの進捗について
+
+- Task1
+    - オンスケ。先週同様、チーム開発に多くの時間を割いたためあまり進められなかった。
+    
+- Task2
+    - 着手完了。
+
+## 所感・学び
+今週はFrontend Team Devをデプロイして提出させていただきました。
+コアのゲームロジック、ユーザー操作とゲームフィールド管理、表示とスコア管理で役割を決めて3人で分担して進めていきました。
+先週は成果物の変更やリーダーの方との連絡が取れなくなるなどチーム開発のおいて問題がいくつか発生しておりましたが、なんとかメンバーの方と協力して「テトリス」を作成することができました。
+【https://github.com/teamdev-yellow/tetris】 
+Frontend Team Devを通してたくさんのことを学ぶことができました。
+次回は12月開催のBackend Project 2 Team Devに申し込ませていただきます。11月はAdvanced CS,OPP,Databaseを重点的に進めてまいります。
+引き続きよろしくお願いいたします！
